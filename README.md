@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fennihS
 - 👀 I’m interested in gaming, music and traveling
-- 🌱 I’m currently learning html and javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning SQL and Python
+- 💞️ I’m looking to a companion
 - 📫 How to reach me? Contact nhatanh141201@gmail.com
 
 <!---
